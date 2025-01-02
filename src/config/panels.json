@@ -1,0 +1,23 @@
+{
+  "1": {
+    "created": "2024-11-30T15:23:22.742Z",
+    "name": "ticket-f7EZK",
+    "ticket_embed": {
+      "title": "Olá, isso é um ticket, ok!",
+      "color": "#ff0000",
+      "description": "Uma descrição legalzinha, pra um suporte legalzinho!",
+      "image": null,
+      "footer": null,
+      "channelId": "1317672951788732556",
+      "messageId": "1317672977080516639",
+      "channelLogsId": "1177550752806350879",
+      "category": "1012379132824403979"
+    },
+    "ticket_button": {
+      "label": "Koioxe",
+      "emoji": "<:spotify:1207767231547703396>",
+      "style": "Secondary",
+      "custom_id": "ticket-f7EZK-1"
+    }
+  }
+}

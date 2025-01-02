@@ -1,0 +1,20 @@
+{
+    "token": "TOKEN",
+    "color": {
+        "clean": "#313338",
+        "no-clean": "#9900ff"
+    },
+
+    "categorys": {
+        "ticket": "1169046040914169856"
+    },
+
+    "channels": {
+        "ticket.logs": "1177550752806350879",
+        "review.logs": "1182686507811754105"
+    },
+
+    "roles": {
+        "ticket": "1169049799501291671"
+    }
+}
